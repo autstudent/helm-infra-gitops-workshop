@@ -3,7 +3,7 @@ oauth:
   keycloak: # Update chart values
     clientid: myclient-1
     issuer: https://keycloak-keycloak.apps.argo-hub.sandbox2646.opentlc.com/realms/myrealm-1
-    data: jjlrYDaj6yeq99tcHDa7gxLlgR98f15p
+    data: 3QNZf2KFePkoePWL2zCw3jLMmTMzTV2I
   ldap:
     sync:
       ldap_url: 'ldap://10.0.184.37:31740'
